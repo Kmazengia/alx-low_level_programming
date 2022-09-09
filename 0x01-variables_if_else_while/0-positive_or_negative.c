@@ -14,10 +14,10 @@ srand(time(0));
 n = rand() - RAND_MAX / 2;
 /* your code goes there */
 if (n > 0)
-printf("\n98 is possitive");
+  printf("%d 98 is possitive\n", n);
 else if (n == 0)
-printf("\n0 is zero");
+  printf("%d 0 is zero\n", n);
 else
-printf("\n-98 is negative");
+  printf("%d -98 is negative", n);
 return (0);
 }
