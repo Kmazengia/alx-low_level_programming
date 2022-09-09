@@ -11,6 +11,6 @@ int main(void)
 	/**
 	 * The main function from which the excution begins
 	 **/ 
-	puts("\"programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
