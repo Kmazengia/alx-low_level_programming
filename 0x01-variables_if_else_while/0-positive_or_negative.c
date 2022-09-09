@@ -4,6 +4,7 @@
 /* more headers goes there */
 /* betty style doc for function main goes there */
 int main(void)
+{
 /**
  *main is the first function where excution begins
  *Description: main is where the excution begins at the first time.
