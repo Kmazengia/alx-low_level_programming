@@ -16,7 +16,7 @@ n = rand() - RAND_MAX / 2;
 if (n > 0)
 printf("n is possitive number");
 else if (n == 0)
-printf("n is zero");
+printf("0 is zero");
 else
 printf("n is negative");
 return (0);
