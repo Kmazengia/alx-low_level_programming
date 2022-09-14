@@ -5,19 +5,17 @@
 #include <time.h>
 
 /**
+ * main - Entry point
  *
- *  * main - Entry point
- *
- *   *
- *
- *    * Return: Always success
+ * Return: Always success
  *
  */
 
 int main(void)
 
 {
-	/**main - entry point for a function
+	/**
+	 *main - entry point for a function
 	 *Description:main is where excution begins
 	 *
 	 *
